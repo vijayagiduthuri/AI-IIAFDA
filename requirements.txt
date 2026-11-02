@@ -1,0 +1,15 @@
+# Tested with Python 3.13. scikit-learn is pinned exactly because the
+# saved model (models/final_invoice_fraud_model.pkl) was built with it.
+streamlit==1.66.1
+pandas==3.1.0
+numpy==2.5.4
+scikit-learn==1.6.1
+joblib==1.6.0
+pillow==13.0.0
+pymupdf==2.0
+pytesseract==0.3.13
+chromadb==1.5.9
+sentence-transformers==6.2.0
+groq==1.7.0
+python-dotenv==1.2.4
+pyarrow==26.0.0

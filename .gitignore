@@ -1,0 +1,17 @@
+# Secrets (see .env.example)
+.env
+
+# Virtual environment and caches
+venv/
+__pycache__/
+*.pyc
+
+# Vector knowledge base (1+ GB, rebuilt with index_all_invoices)
+chroma_db/
+rag_checkpoints/
+
+# Runtime data
+data/*.db
+
+# Editor
+.vscode/

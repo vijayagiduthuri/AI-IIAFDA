@@ -1,0 +1,2 @@
+invoice_id,invoice_amount,ocr_total_extracted,amount_difference,supplier_risk_score,blacklisted_flag,duplicate_invoice_flag,split_invoice_flag,late_night_submission_flag,image_tamper_flag,is_fraud,resolved_image_path
+INV_0270598,3681.98,3682.46,0.4800000000000182,0.247,0,0,0,0,0,0,D:\archive (5)\Procument Invoice Fraud Dataset v1\images\INV_0270598.png
